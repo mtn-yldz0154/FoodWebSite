@@ -1,0 +1,55 @@
+body {
+  background-color: gray;
+}
+.ara h2 {
+  margin-top: 7px;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+  margin-bottom: 7px;
+  height: 50px;
+}
+.ara2 h2 {
+  margin-top: 7px;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+  margin-bottom: 7px;
+  height: 50px;
+}
+.card {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.col-md-4 {
+  background-color: gray;
+}
+
+.ara3 h2 {
+  margin-top: 7px;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+  margin-bottom: 7px;
+  height: 50px;
+}
+
+#a {
+  margin-left: 70px;
+  margin-right: 70px;
+  border-radius: 40px;
+}
+
+#hover:hover {
+  transform: scale(1.1);
+}
+
+#hover {
+  transition: 0.5s;
+}
+
+#hover2:hover {
+  transform: scale(0.9);
+}
+
+#hover2 {
+  transition: 0.4s;
+}
